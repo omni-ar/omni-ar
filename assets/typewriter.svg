@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="90" viewBox="0 0 720 90" role="img" aria-label="Typewriter: Full-stack Developer, Open-source Tinkerer, AR Enthusiast">
+  <style>
+    .text { font-family: Inter, Roboto, Arial, sans-serif; font-weight: 600; font-size: 28px; fill: #0f172a; }
+    .cursor { fill: #0f172a; }
+  </style>
+
+  <g transform="translate(10,50)">
+    <clipPath id="c1"><rect x="0" y="-28" width="0" height="40">
+      <animate attributeName="width" begin="0s" dur="1.6s" values="0;360" fill="freeze"/>
+    </rect></clipPath>
+    <text class="text" clip-path="url(#c1)">Arjit Tripathi — Full‑stack • AI • WebXR</text>
+    <rect class="cursor" x="365" y="-22" width="6" height="28">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" begin="0s"/>
+    </rect>
+  </g>
+</svg>
