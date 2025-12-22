@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8fafc,100:e5e7eb&height=140&section=header&text=Arjit%20Tripathi&fontSize=38&fontColor=111827"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=150&section=header&text=Arjit%20Tripathi&fontSize=40&fontAlign=50&fontColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -120,5 +120,5 @@ Led technical execution for 30+ events • Mentored 15+ juniors • Git/GitHub &
 <h3 align="center">🧠 “I like building systems that actually solve problems — not just demos.”</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e5e7eb,100:f8fafc&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
 </p>
