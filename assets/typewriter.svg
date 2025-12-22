@@ -1,0 +1,56 @@
+<!-- Improved animated SVG typewriter.
+     IMPORTANT: GitHub sometimes strips SVG animation (SMIL). Use this SVG in browsers.
+     I recommend also including a GIF fallback (typewriter.gif). -->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110" role="img" aria-label="Arjit Tripathi — Full-stack • Agentic AI • WebXR">
+  <style>
+    .bg { fill: none; }
+    .t { font: 700 28px 'Inter', Arial, sans-serif; fill:#061529; }
+    .sub { font: 500 16px 'Inter', Arial, sans-serif; fill:#0b2a47; opacity:0.85; }
+    .cursor { fill:#0b2a47; }
+  </style>
+
+  <!-- Phrase 1 typed -->
+  <g transform="translate(20,60)">
+    <clipPath id="clip1">
+      <rect x="0" y="-30" width="0" height="40">
+        <animate attributeName="width" dur="2s" begin="0s" values="0;360" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="t" clip-path="url(#clip1)">Arjit Tripathi — Full‑stack Developer</text>
+    <rect class="cursor" x="365" y="-24" width="6" height="30">
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite" begin="0s"/>
+    </rect>
+  </g>
+
+  <!-- Pause then phrase 2 typed -->
+  <g transform="translate(20,60)">
+    <clipPath id="clip2">
+      <rect x="0" y="-30" width="0" height="40">
+        <animate attributeName="width" dur="2s" begin="2.8s" values="0;315" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="t" clip-path="url(#clip2)"></text>
+    <text class="t" clip-path="url(#clip2)" style="visibility:visible">Agentic AI & Automation</text>
+    <rect class="cursor" x="320" y="-24" width="6" height="30">
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite" begin="2.8s"/>
+    </rect>
+  </g>
+
+  <!-- Then phrase 3 typed -->
+  <g transform="translate(20,60)">
+    <clipPath id="clip3">
+      <rect x="0" y="-30" width="0" height="40">
+        <animate attributeName="width" dur="2s" begin="5.6s" values="0;290" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="t" clip-path="url(#clip3)">3D Web & WebXR Enthusiast</text>
+    <rect class="cursor" x="295" y="-24" width="6" height="30">
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite" begin="5.6s"/>
+    </rect>
+  </g>
+
+  <!-- Loop: fade out everything then restart -->
+  <rect x="0" y="0" width="900" height="110" fill="transparent">
+    <animate attributeName="opacity" values="1;1" dur="8.5s" repeatCount="indefinite" />
+  </rect>
+</svg>
