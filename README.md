@@ -72,7 +72,8 @@ I'm **Arjit Tripathi** — a pre-final year CSE student at **VIT Vellore** (9.28
 
 ## 💬 Now / Daily
 <!--QUOTE_START-->
-> "This line is updated daily by a GitHub Action — your daily status or quote."
+> 
+
 <!--QUOTE_END-->
 
 (If you prefer a 'Now' line: we can set the workflow to update “Now working on: <repo>” automatically based on a chosen repo.)
