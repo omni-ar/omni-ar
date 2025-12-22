@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Hey+I'm+Arjit+Tripathi;Full-Stack+Developer+%7C+Aspiring+Quant;Building+AI+%26+System-Level+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hey+I'm+Arjit+Tripathi;Full-Stack+Developer+%7C+Aspiring+Quant;Building+AI+%26+System-Level+Projects;Currently+Focusing+on+Real-World+Impact" />
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=Arjit%20Tripathi&fontSize=38&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8fafc,100:e5e7eb&height=140&section=header&text=Arjit%20Tripathi&fontSize=38&fontColor=111827"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omni-ar&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -12,9 +16,9 @@
 
 <p align="center">
 🎓 CSE Undergrad @ <b>VIT Vellore</b> (2023–2027) <br>
-💻 Software Development Intern @ <b>Aspire For Her</b> <br>
+💻 Software Development Intern @ <b>Aspire For Her Foundation</b> <br>
 🧠 Interested in <b>Full-Stack Systems, AI/ML & Quant-style problem solving</b> <br>
-⚙️ I like building things that mix <b>engineering + logic + real-world impact</b>
+⚙️ I enjoy building systems that combine <b>engineering, logic & real-world impact</b>
 </p>
 
 ---
@@ -23,6 +27,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,cpp,java,html,css,react,nodejs,express,fastapi,mongodb,docker,git,linux,tailwind" />
+  <br/>
+  <img src="https://img.shields.io/badge/n8n-Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
 ---
@@ -31,22 +37,39 @@
 
 <p align="center">
 <b>🧬 MediTrace</b> — Anti-Counterfeit Drug Verification Platform <br>
-FastAPI • React • Cryptography • Blockchain-inspired Ledger • AI Anomaly Detection
+FastAPI • React • Cryptographic Serialization • Blockchain-inspired Ledger • AI Anomaly Detection
 </p>
 
 <p align="center">
-<b>⏳ Time Travel Web App</b> <br>
-3D Timeline (1100–2100 CE) • React • Three.js • JWT • Payments
-</p>
-
-<p align="center">
-<b>🤖 AI Interview Practice System</b> <br>
+<b>🤖 OA Reminder</b> — AI-Powered Interview Practice System <br>
 FastAPI • Docker • n8n • Telegram Bot • HuggingFace Transformers
 </p>
 
 <p align="center">
-<b>🚦 Smart Traffic Management System</b> <br>
-Python • Flask • Finite State Machines • Real-time Visualization
+<b>⏳ Time Travel Web App</b> — Interactive 3D Timeline (1100–2100 CE) <br>
+React • Three.js • JWT Authentication • Payments • Full-Stack Deployment
+</p>
+
+---
+
+<h2 align="center">💼 Experience</h2>
+
+<p align="center">
+<b>Software Development Intern — Aspire For Her Foundation</b><br>
+<i>Dec 2025 – Present</i><br>
+Admin Dashboard • RBAC • Cashfree Integration • Analytics • Backend Optimization
+</p>
+
+<p align="center">
+<b>Research Intern — India Space Lab (Remote)</b><br>
+<i>Jun 2025 – Jul 2025</i><br>
+Telemetry Automation • Data Visualization • Technical Reporting
+</p>
+
+<p align="center">
+<b>Tech Lead — ISTE VIT</b><br>
+<i>Aug 2024 – May 2025</i><br>
+Led technical execution for 30+ events • Mentored 15+ juniors • Git/GitHub & system design guidance
 </p>
 
 ---
@@ -54,7 +77,7 @@ Python • Flask • Finite State Machines • Real-time Visualization
 <h2 align="center">📚 Currently Working On</h2>
 
 <p align="center">
-🔹 <b>MediTrace</b> — cryptographic drug serialization & AI-powered fake detection <br>
+🔹 <b>MediTrace</b> — cryptographic drug serialization & AI-powered counterfeit detection <br>
 🔹 Advanced backend architecture & system design <br>
 🔹 Consistent DSA & problem-solving practice
 </p>
@@ -97,5 +120,5 @@ Python • Flask • Finite State Machines • Real-time Visualization
 <h3 align="center">🧠 “I like building systems that actually solve problems — not just demos.”</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e5e7eb,100:f8fafc&height=120&section=footer"/>
 </p>
