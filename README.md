@@ -1,68 +1,101 @@
-# Hi — I’m Arjit Tripathi 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Hey+I'm+Arjit+Tripathi;Full-Stack+Developer+%7C+Aspiring+Quant;Building+AI+%26+System-Level+Projects" />
+</div>
 
-![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Arjit%20Tripathi&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Dev%20%7C%20AI%20%26%20Automation%20%7C%20Creative%20Coder&descAlign=50&descAlignY=52)
-
-<!-- Hero: animated typewriter (SVG) with GIF fallback -->
 <p align="center">
-  <img src="./assets/typewriter.gif" alt="typewriter" title="Arjit Tripathi — Full-stack • Agentic AI • WebXR" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=Arjit%20Tripathi&fontSize=38&fontColor=ffffff"/>
 </p>
 
-[![Profile views](https://komarev.com/ghpvc/?username=omni-ar&color=brightgreen)](https://github.com/omni-ar)
+---
 
-I'm **Arjit Tripathi** — a pre-final year CSE student at **VIT Vellore** (9.28 CGPA). I build scalable backend systems, automate workflows using Agentic AI, and craft immersive 3D web experiences.
+<h2 align="center">🚀 About Me</h2>
 
-- 🔭 **Currently building:** **MediTrace** — supply-chain solution to authenticate medicines and fight counterfeits.
-- 🌱 **Learning:** Advanced RAG systems, MLOps, and system design.
-- ⚡ **Fun fact:** I built a 3D time-travel interface using Three.js — purely virtual!
+<p align="center">
+🎓 CSE Undergrad @ <b>VIT Vellore</b> (2023–2027) <br>
+💻 Software Development Intern @ <b>Aspire For Her</b> <br>
+🧠 Interested in <b>Full-Stack Systems, AI/ML & Quant-style problem solving</b> <br>
+⚙️ I like building things that mix <b>engineering + logic + real-world impact</b>
+</p>
 
 ---
 
-## 🛠️ Tech Stack (highlights)
-Python · FastAPI · Node.js · React · Three.js · Docker · n8n · MongoDB
+<h2 align="center">🧰 Tech Stack</h2>
 
-(see badges below)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ThreeJS](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,java,html,css,react,nodejs,express,fastapi,mongodb,docker,git,linux,tailwind" />
+</p>
 
 ---
 
-## 🔭 Featured Projects
+<h2 align="center">📌 Featured Projects</h2>
 
-| Project | What it is | Languages / Tech | Demo / Link |
-|---|---:|---|---|
-| **OA-Reminder (AI Bot)** | AI-powered interview-prep system on Telegram. Automates reasoning questions using n8n + FastAPI. | Python (98.6%), Docker | [GitHub](https://github.com/omni-ar/oa-reminder) |
-| **MediTrace** | End-to-end supply-chain verification for medicines — scan & authenticate. | JavaScript (67.1%), Python (25.6%) | [GitHub](https://github.com/omni-ar/MediTrace) |
-| **Time Travel Web App** | 3D immersive journey (1100–2100 CE) built with Three.js; interactive diary & timeline. | HTML (56.1%), JS (23.2%), CSS (20.7%) | [Live Demo](https://time-travel-ruby.vercel.app/) |
+<p align="center">
+<b>🧬 MediTrace</b> — Anti-Counterfeit Drug Verification Platform <br>
+FastAPI • React • Cryptography • Blockchain-inspired Ledger • AI Anomaly Detection
+</p>
 
-Notes:
-- Add a short GIF/screenshot in each repo README to make the project pop. I left demo placeholders — if you give me 6–10s screen recordings, I’ll convert them to optimized GIFs.
+<p align="center">
+<b>⏳ Time Travel Web App</b> <br>
+3D Timeline (1100–2100 CE) • React • Three.js • JWT • Payments
+</p>
 
----
+<p align="center">
+<b>🤖 AI Interview Practice System</b> <br>
+FastAPI • Docker • n8n • Telegram Bot • HuggingFace Transformers
+</p>
 
-## 📊 GitHub Stats
-![Arjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=omni-ar&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omni-ar&layout=compact&theme=radical&hide_border=true)
-
-(If you want a prettier "dashboard" like in your example, I can add a workflow that generates a custom image with charts and pushes it to /assets. That requires a small Action that runs periodically.)
-
----
-
-## 💬 Now / Daily
-<!--QUOTE_START-->
-> 
-
-<!--QUOTE_END-->
-
-(If you want the action to rotate between `Now working on: MediTrace` and `Now working on: OA-Reminder`, tell me the order and I’ll update the workflow.)
+<p align="center">
+<b>🚦 Smart Traffic Management System</b> <br>
+Python • Flask • Finite State Machines • Real-time Visualization
+</p>
 
 ---
 
-## 📫 Contact & Portfolio
-- Portfolio: https://arjittripathi.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/arjit-tripathi-213b4a292/
-- Email: arjittripathi3103@gmail.com
+<h2 align="center">📚 Currently Working On</h2>
 
-<div align="center"><sub>Built with ❤️ by Arjit — open to collabs and mentorship requests</sub></div>
+<p align="center">
+🔹 <b>MediTrace</b> — cryptographic drug serialization & AI-powered fake detection <br>
+🔹 Advanced backend architecture & system design <br>
+🔹 Consistent DSA & problem-solving practice
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=omni-ar&show_icons=true&theme=tokyonight&hide_border=true" />
+  &nbsp;&nbsp;
+  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omni-ar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omni-ar&theme=tokyonight" />
+</p>
+
+---
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arjit-tripathi-213b4a292/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/omni-ar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:arjittripathi3103@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://arjittripathi.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">🧠 “I like building systems that actually solve problems — not just demos.”</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
