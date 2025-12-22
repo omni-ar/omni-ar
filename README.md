@@ -52,7 +52,8 @@ Notes:
 
 ## 💬 Now / Daily
 <!--QUOTE_START-->
-> "This line is updated daily by a GitHub Action — your daily status or quote."
+> 
+
 <!--QUOTE_END-->
 
 (If you want the action to rotate between `Now working on: MediTrace` and `Now working on: OA-Reminder`, tell me the order and I’ll update the workflow.)
