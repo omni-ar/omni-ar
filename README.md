@@ -87,9 +87,9 @@ Led technical execution for 30+ events • Mentored 15+ juniors • Git/GitHub &
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=omni-ar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=omni-ar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   &nbsp;&nbsp;
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omni-ar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omni-ar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
