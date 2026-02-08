@@ -3,7 +3,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> ARJIT TRIPATHI
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;System+Architect;AI%2FML+Engineer;Aspiring+Quant;Problem+Solver;Backend+Specialist;Building+Production+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer  System+Architect;AI%2FML+Engineer;Aspiring+Quant;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -75,7 +75,6 @@ const arjit = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -84,7 +83,6 @@ const arjit = {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🛠️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -96,7 +94,6 @@ const arjit = {
 ### 🤖 AI/ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
 
@@ -121,7 +118,7 @@ Production-ready system fighting pharmaceutical fraud through cryptographic seri
 
 `FastAPI` `React` `Cryptography` `Blockchain-Ledger` `ML`
 
-**[→ Explore Project](https://github.com/omni-ar)**
+**[→ Explore Project](https://github.com/omni-ar/MediTrace)**
 
 </div>
 
@@ -139,7 +136,7 @@ Intelligent automation platform with ML-driven question generation, scheduling, 
 
 `FastAPI` `Docker` `n8n` `HuggingFace` `Telegram API`
 
-**[→ Explore Project](https://github.com/omni-ar)**
+**[→ Explore Project](https://github.com/omni-ar/oa-reminder)**
 
 </div>
 
@@ -160,7 +157,7 @@ Immersive journey through 1000 years (1100-2100 CE) with stunning 3D visualizati
 
 `React` `Three.js` `JWT Auth` `Payment Gateway` `Full-Stack`
 
-**[→ Explore Project](https://github.com/omni-ar)**
+**[→ Explore Project](https://github.com/omni-ar/time_travel)**
 
 </div>
 
