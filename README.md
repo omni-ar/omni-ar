@@ -1,25 +1,20 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=ARJIT+TRIPATHI;System+Architect+%7C+Full-Stack+Engineer" alt="Typing SVG" />
-</h1>
-
 <div align="center">
-  
-  <!-- Animated underline -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-</div>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> ARJIT TRIPATHI
 
-<div align="center">
-  
-  **`Building production systems that matter`** × **`Not just another developer`**
-  
-  <br/>
-  
-  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://arjittripathi.vercel.app)
-  [![LinkedIn](https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjit-tripathi-213b4a292/)
-  [![Email](https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjittripathi3103@gmail.com)
-  
-  <img src="https://komarev.com/ghpvc/?username=omni-ar&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+### `System Architect` | `Full-Stack Engineer`
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+**`Building production systems that matter`** × **`Not just another developer`**
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/▲_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=black)](https://arjittripathi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjit-tripathi-213b4a292/)
+[![Email](https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjittripathi3103@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=omni-ar&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -299,8 +294,13 @@ timeline
 
 <div align="center">
 
-> ### *"Engineering is not about writing code.*
-> ### *It's about solving problems that matter."*
+> ### *कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।*
+> ### *You have the right to perform your duty, but not to the fruits of your actions.*
+> **— Bhagavad Gita 2.47**
+
+<br>
+
+**My Interpretation:** Focus on building exceptional systems with complete dedication, without being attached to recognition or outcomes. The quality of work speaks for itself.
 
 <br>
 
