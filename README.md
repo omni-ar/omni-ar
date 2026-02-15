@@ -1,16 +1,25 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> ARJIT TRIPATHI
+```
+╔──────────────────────────────────────────────────────────────────╗
+│  > whoami                                                        │
+│                                                                  │
+│    ARJIT TRIPATHI                                                │
+│    A builder. Not just a developer.                              │
+│                                                                  │
+│  > cat skills.txt                                                │
+│    Systems that scale. Code that ships. Impact that lasts.       │
+│                                                                  │
+│  > status                                                        │
+│    [■■■■■■■■■░] building... always building.                     │
+╚──────────────────────────────────────────────────────────────────╝
+```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;System+Architect;AI%2FML+Engineer;Aspiring+Quant;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;System+Architect;AI%2FML+Engineer;Aspiring+Quant;Backend+Specialist;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-**`Building production systems that matter`** × **`Not just another developer`**
-
-<br/>
 
 [![Portfolio](https://img.shields.io/badge/▲_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=black)](https://arjittripathi.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjit-tripathi-213b4a292/)
@@ -26,7 +35,7 @@
 
 ## 🎯 WHO AM I
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="360">
 
 ```typescript
 const arjit = {
@@ -68,6 +77,7 @@ const arjit = {
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -75,6 +85,7 @@ const arjit = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -83,6 +94,7 @@ const arjit = {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🛠️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -94,6 +106,7 @@ const arjit = {
 ### 🤖 AI/ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
 
@@ -118,7 +131,7 @@ Production-ready system fighting pharmaceutical fraud through cryptographic seri
 
 `FastAPI` `React` `Cryptography` `Blockchain-Ledger` `ML`
 
-**[→ Explore Project](https://github.com/omni-ar/MediTrace)**
+**[→ Explore Project](https://github.com/omni-ar)**
 
 </div>
 
@@ -136,7 +149,7 @@ Intelligent automation platform with ML-driven question generation, scheduling, 
 
 `FastAPI` `Docker` `n8n` `HuggingFace` `Telegram API`
 
-**[→ Explore Project](https://github.com/omni-ar/oa-reminder)**
+**[→ Explore Project](https://github.com/omni-ar)**
 
 </div>
 
@@ -157,7 +170,7 @@ Immersive journey through 1000 years (1100-2100 CE) with stunning 3D visualizati
 
 `React` `Three.js` `JWT Auth` `Payment Gateway` `Full-Stack`
 
-**[→ Explore Project](https://github.com/omni-ar/time_travel)**
+**[→ Explore Project](https://github.com/omni-ar)**
 
 </div>
 
