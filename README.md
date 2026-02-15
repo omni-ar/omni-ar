@@ -24,14 +24,6 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="360">
 
-```bash
-┌─[arjit@universe]─[~]
-└──╼ $ whoami
-  → A builder who ships real systems, not just demos
-  → Engineering × Logic × Real-World Impact
-  → Status: [████████████░] always building...
-```
-
 ```typescript
 const arjit = {
     identity: {
@@ -72,7 +64,6 @@ const arjit = {
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -80,7 +71,6 @@ const arjit = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -99,7 +89,6 @@ const arjit = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ### 🤖 AI/ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
@@ -126,7 +115,7 @@ Production-ready system fighting pharmaceutical fraud through cryptographic seri
 
 `FastAPI` `React` `Cryptography` `Blockchain-Ledger` `ML`
 
-**[→ Explore Project](https://github.com/omni-ar)**
+**[→ Explore Project](https://github.com/omni-ar/MediTrace)**
 
 </div>
 
@@ -144,7 +133,7 @@ Intelligent automation platform with ML-driven question generation, scheduling, 
 
 `FastAPI` `Docker` `n8n` `HuggingFace` `Telegram API`
 
-**[→ Explore Project](https://github.com/omni-ar)**
+**[→ Explore Project](https://github.com/omni-ar/oa-reminder)**
 
 </div>
 
@@ -165,7 +154,7 @@ Immersive journey through 1000 years (1100-2100 CE) with stunning 3D visualizati
 
 `React` `Three.js` `JWT Auth` `Payment Gateway` `Full-Stack`
 
-**[→ Explore Project](https://github.com/omni-ar)**
+**[→ Explore Project](https://github.com/omni-ar/time_travel)**
 
 </div>
 
