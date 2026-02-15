@@ -1,19 +1,6 @@
 <div align="center">
 
-```
-╔──────────────────────────────────────────────────────────────────╗
-│  > whoami                                                        │
-│                                                                  │
-│    ARJIT TRIPATHI                                                │
-│    A builder. Not just a developer.                              │
-│                                                                  │
-│  > cat skills.txt                                                │
-│    Systems that scale. Code that ships. Impact that lasts.       │
-│                                                                  │
-│  > status                                                        │
-│    [■■■■■■■■■░] building... always building.                     │
-╚──────────────────────────────────────────────────────────────────╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00D9FF,100:0D0D0D&height=200&section=header&text=ARJIT%20TRIPATHI&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=A%20builder.%20Not%20just%20a%20developer.&descAlignY=60&descSize=18&descColor=00D9FF&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;System+Architect;AI%2FML+Engineer;Aspiring+Quant;Backend+Specialist;Problem+Solver" alt="Typing SVG" />
@@ -36,6 +23,14 @@
 ## 🎯 WHO AM I
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="360">
+
+```bash
+┌─[arjit@universe]─[~]
+└──╼ $ whoami
+  → A builder who ships real systems, not just demos
+  → Engineering × Logic × Real-World Impact
+  → Status: [████████████░] always building...
+```
 
 ```typescript
 const arjit = {
