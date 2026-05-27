@@ -98,6 +98,7 @@ each piece added because the previous one exposed a new failure mode.
 
 Hash chains guarantee O(K) per-unit verification
 while bypassing global DB lock contention at scale.
+
 ---
 
 ### Industrial Hydraulic Fault Diagnosis
