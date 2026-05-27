@@ -1,8 +1,12 @@
 <div align="center">
 
-# Arjit Tripathi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00D9FF,100:0D0D0D&height=180&section=header&text=ARJIT%20TRIPATHI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Systems%20Engineer&descAlignY=58&descSize=16&descColor=00D9FF&animation=fadeIn" width="100%"/>
 
-**Backend & Systems Engineer**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=580&lines=Backend+%26+Systems+Engineering;Applied+ML+%7C+Real+Constraints;CSE+%40+VIT+Vellore+%7C+CGPA+9.27;Top+10+%2F+1500%2B+—+Caterpillar+2026" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=flat-square&logoColor=black)](https://arjittripathi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjit-tripathi-213b4a292/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arjittripathi3103@gmail.com)
 
 </div>
 
