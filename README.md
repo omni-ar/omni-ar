@@ -1,8 +1,8 @@
 <div align="center">
 
-# Arjit Tripathi
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=99999&color=00D9FF&center=true&vCenter=true&repeat=false&width=500&height=60&lines=Arjit+Tripathi" alt="Arjit Tripathi"/>
 
-**Backend & Systems Engineer**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=99999&color=888888&center=true&vCenter=true&repeat=false&width=500&height=30&lines=Backend+%26+Systems+Engineer" alt="Backend & Systems Engineer"/>
 
 </div>
 
@@ -37,8 +37,7 @@ and building reliable software around ambiguous real-world problems.
 ## Projects
 
 **ADIOS — Autonomous Dump Orchestration System**
-`Python · FastAPI · BFS/DFS · Next.js`
-*Top 10 / 1500+ teams — Caterpillar Tech Challenge 2026*
+`Python · FastAPI · BFS/DFS · Next.js` &nbsp; ![Competition](https://img.shields.io/badge/Top_10_%2F_1500+_teams-00D9FF?style=flat-square) ![Caterpillar Tech Challenge 2026](https://img.shields.io/badge/Caterpillar_Tech_Challenge_2026-333?style=flat-square)
 
 Multi-agent scheduling simulation built under real engineering constraints.
 The interesting part was a deadlock problem that kept reappearing under edge cases —
@@ -48,7 +47,7 @@ and a 3D time-space reservation grid with 25-tick conflict lookahead.
 ---
 
 **Predictive Maintenance — Aircraft Engine RUL**
-`Python · XGBoost · scikit-learn · SHAP · NASA C-MAPSS`
+`Python · XGBoost · scikit-learn · SHAP · NASA C-MAPSS` &nbsp; ![ML Systems](https://img.shields.io/badge/Applied_ML-00D9FF?style=flat-square)
 
 44 engineered features from 21 sensor channels. GroupKFold CV.
 Asymmetric penalty scoring because early vs late failure predictions have different costs.
@@ -56,8 +55,8 @@ RMSE 15.18 ± 1.25. Near-failure MAE 4.57.
 
 ---
 
-**MediTrace — Pharmaceutical Anti-Counterfeiting** *(Active)*
-`FastAPI · React · PyTorch · Celery · Redis`
+**MediTrace — Pharmaceutical Anti-Counterfeiting**
+`FastAPI · React · PyTorch · Celery · Redis` &nbsp; ![Status](https://img.shields.io/badge/Active_Development-FFA500?style=flat-square)
 
 SHA-256 hash chains for unit verification. Inference decoupled from the API event loop
 via Redis + Celery worker pool. Still replacing synthetic training data — not calling it
@@ -66,8 +65,7 @@ production until it earns that.
 ---
 
 **Industrial Hydraulic Fault Diagnosis**
-`FastAPI · PyTorch · 17-channel sensor data`
-*Co-Inventor — Indian Patent Application 202641025497 (Published March 2026)*
+`FastAPI · PyTorch · 17-channel sensor data` &nbsp; ![Patent](https://img.shields.io/badge/Patent_Filed-00D9FF?style=flat-square)
 
 Signal integrity evaluation, data preprocessing pipeline, FastAPI inference interface.
 Achieved 0.994 macro-F1 across 17-channel industrial sensor data.
@@ -105,5 +103,4 @@ ML/AI      →  PyTorch, YOLOv8, XGBoost, scikit-learn, SHAP
 > *You have the right to perform your duty, not to the fruits of your actions. — Gita 2.47*
 
 <br/>
-
 </div>
