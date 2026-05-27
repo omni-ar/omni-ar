@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00D9FF,100:0D0D0D&height=180&section=header&text=ARJIT%20TRIPATHI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Systems%20Engineer&descAlignY=58&descSize=16&descColor=00D9FF&animation=fadeIn" width="100%"/>
+# Arjit Tripathi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=580&lines=Backend+%26+Systems+Engineering;Applied+ML+%7C+Real+Constraints;CSE+%40+VIT+Vellore+%7C+CGPA+9.27;Top+10+%2F+1500%2B+—+Caterpillar+2026" />
+**Backend & Systems Engineer**
 
 </div>
 
@@ -91,14 +91,12 @@ ML/AI      →  PyTorch, YOLOv8, XGBoost, scikit-learn, SHAP
 
 ---
 
----
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omni-ar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=omni-ar&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6500&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=00D9FF"/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=omni-ar&custom_title=Contribution+Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&title_color=FFFFFF"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=flat-square&logoColor=black)](https://arjittripathi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjit-tripathi-213b4a292/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arjittripathi3103@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/omni-ar)
 
 <br/>
 
@@ -107,7 +105,5 @@ ML/AI      →  PyTorch, YOLOv8, XGBoost, scikit-learn, SHAP
 > *You have the right to perform your duty, not to the fruits of your actions. — Gita 2.47*
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00D9FF,100:0D0D0D&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>
