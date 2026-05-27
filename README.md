@@ -91,13 +91,13 @@ Near-failure MAE: **4.57**
 
 <img src="https://img.shields.io/badge/Active_Development-FF9F1C?style=flat-square"/>
 
-Started as a simple verification idea.
-Slowly evolved into asynchronous inference pipelines, worker queues, RBAC layers, and cryptographic unit verification using SHA-256 hash chains.
+Started as a verification idea. Became something harder.
 
-Still replacing synthetic datasets with real pharmaceutical data.
+Inference pipelines, worker queues, RBAC, SHA-256 hash chains —
+each piece added because the previous one exposed a new failure mode.
 
-Not calling it production until it earns that.
-
+Hash chains guarantee O(K) per-unit verification
+while bypassing global DB lock contention at scale.
 ---
 
 ### Industrial Hydraulic Fault Diagnosis
