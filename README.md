@@ -1,8 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00D9FF,100:0D0D0D&height=180&section=header&text=Arjit%20Tripathi&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Backend%20%26%20Systems%20Engineer&descAlignY=60&descSize=16&descColor=00D9FF&animation=fadeIn" width="100%"/>
-</div>
 
-<br/>
+# Arjit Tripathi
+
+**Backend & Systems Engineer**
+
+</div>
 
 ```
 CSE @ VIT Vellore (2023–2027)  ·  CGPA 9.27  ·  Merit Scholar
@@ -98,6 +100,6 @@ ML/AI      →  PyTorch, YOLOv8, XGBoost, scikit-learn, SHAP
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00D9FF,100:0D0D0D&height=100&section=footer" width="100%"/>
+<sub><i>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन — Gita 2.47</i></sub>
 
 </div>
