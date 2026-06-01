@@ -11,139 +11,58 @@
 ```text
 CSE @ VIT Vellore (2023–2027)  ·  CGPA 9.21  ·  Merit Scholar
 Co-Inventor — Indian Patent Application 202641025497
-````
+The Greeks once asked a question about a ship repaired so many times that none of its original timber remained:
 
-The Greeks once asked a strange question about a ship repaired so many times
-that none of its original parts remained:
+Was it still the same ship?
 
-*Was it still the same ship?*
+It is the exact same problem we face in system design.
+A monolithic architecture starts simple. Then come the bottleneck failures, the race conditions, the async queues, and the silent rewrites of core logic to keep the system alive under load.
 
-I think about that sometimes while building software.
-
-A project starts simple.
-Then come the rewrites, the failures, the edge cases,
-the long nights spent rebuilding things that once seemed finished.
-
-Somewhere in that process, engineering stopped feeling like coursework.
+Somewhere in that continuous cycle of tearing down and rebuilding, engineering stops being about syntax and starts being about state and survival.
 
 I’m Arjit.
 Still replacing parts.
-Still learning what survives.
+Still building what survives.
 
----
+Work
+Software Development Intern — Aspire For Her Foundation
+Dec 2025 – Feb 2026
 
-# Work
+Built an RBAC-enforced multi-tenant dashboard and integrated Cashfree HMAC webhook verification for 300+ users, while establishing GitHub Actions CI/CD peer-review gates after executing a live git-based production rollback.
 
-### Software Development Intern — Aspire For Her Foundation
+Research Intern — India Space Lab
+Jun – Jul 2025
 
-*Dec 2025 – Feb 2026*
+Engineered automated telemetry ingestion ETL pipelines for 15+ flight stability parameters across multi-channel sensor streams, resolving real-world signal noise and data integrity failures while capturing 3 flagged anomalies to cut manual review overhead.
 
-Built RBAC-enforced internal systems and payment workflows for 300+ users.
-Integrated Cashfree webhooks with HMAC verification and handled production rollback during a failed deployment incident that later led to mandatory peer-review gates.
+Projects
+ADIOS — Autonomous Dump Orchestration System
+Python · FastAPI · BFS/DFS · Next.js
 
-<br/>
+Engineered a deadlock-free multi-agent orchestration pipeline by integrating a 3D reservation grid, 25-tick DFS wait-for graph lookahead, and BFS flood-fill terrain validation to secure concurrent dispatching for 4 trucks without polygon entrapment.
 
-### Research Intern — India Space Lab
+Predictive Maintenance — Aircraft Engine RUL
+Python · XGBoost · scikit-learn · SHAP
 
-*Jun – Jul 2025*
+Engineered a degradation-aware RUL prediction pipeline on 21-channel NASA C-MAPSS telemetry using XGBoost with 44 handcrafted features and GroupKFold validation, optimizing around asymmetric failure-cost penalties to achieve RMSE 15.18 ± 1.25 and near-failure MAE of 4.57.
 
-Worked on telemetry ingestion pipelines and anomaly monitoring across flight stability parameters.
-Spent more time debugging noisy real-world data than writing models — which turned out to be the interesting part.
+MediTrace — Pharmaceutical Anti-Counterfeiting
+FastAPI · React · PyTorch · Celery · Redis
 
----
+Built a distributed pharmaceutical verification system combining a dual-model ML pipeline (YOLOv8 + Random Forest) with Celery/Redis async worker queues and RBAC-enforced FastAPI endpoints using SHA-256 hash chains to enable O(K) per-unit verification and eliminate global DB lock contention.
 
-# Projects
+Industrial Hydraulic Fault Diagnosis
+FastAPI · PyTorch · 17-Channel Sensor Data
 
-### ADIOS — Autonomous Dump Orchestration System
+Designed FastAPI-served PyTorch inference pipelines over 17-channel hydraulic sensor data with hardened signal preprocessing and integrity validation, achieving 0.994 macro-F1 across fault classes.
 
-`Python · FastAPI · BFS/DFS · Next.js`
-
-<img src="https://img.shields.io/badge/Top_10_%2F_1500+_Teams-00D9FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Caterpillar_Tech_Challenge_2026-2A2A2A?style=flat-square"/>
-
-A multi-agent scheduling simulation built around a problem that kept breaking under edge cases.
-
-What began as route planning slowly became deadlock prevention, wait-for graph analysis, terrain validation, and conflict-aware dispatch scheduling using a 3D time-space reservation grid with 25-tick lookahead.
-
-The satisfying part was never the demo.
-It was finally watching the system stabilize.
-
----
-
-### Predictive Maintenance — Aircraft Engine RUL
-
-`Python · XGBoost · scikit-learn · SHAP`
-
-<img src="https://img.shields.io/badge/NASA_C--MAPSS-00D9FF?style=flat-square"/>
-
-Built remaining useful life prediction pipelines on 21-channel engine telemetry data.
-
-Engineered 44 degradation-aware features, used GroupKFold validation, and optimized around asymmetric failure costs because late predictions matter differently from early ones.
-
-Final RMSE: **15.18 ± 1.25**
-Near-failure MAE: **4.57**
-
----
-
-### MediTrace — Pharmaceutical Anti-Counterfeiting
-
-`FastAPI · React · PyTorch · Celery · Redis`
-
-<img src="https://img.shields.io/badge/Active_Development-FF9F1C?style=flat-square"/>
-
-Started as a verification idea. Became something harder.
-
-Inference pipelines, worker queues, RBAC, SHA-256 hash chains —
-each piece added because the previous one exposed a new failure mode.
-
-Hash chains guarantee O(K) per-unit verification
-while bypassing global DB lock contention at scale.
-
----
-
-### Industrial Hydraulic Fault Diagnosis
-
-`FastAPI · PyTorch · 17-Channel Sensor Data`
-
-<img src="https://img.shields.io/badge/Patent_Filed-00D9FF?style=flat-square"/>
-
-Worked on signal integrity evaluation, preprocessing pipelines, and FastAPI inference interfaces for industrial fault diagnosis systems.
-
-Achieved **0.994 macro-F1** across 17-channel hydraulic sensor data.
-
----
-
-# Stack
-
-```text
-Languages  →  C++, Python, Java, JavaScript
-Backend    →  FastAPI, Node.js, Express.js, Docker
+Stack
+Plaintext
+Languages  →  C++, Python, Java, JavaScript, SQL
+Backend    →  FastAPI, Node.js, Express.js, Docker, Celery, Redis, JWT
 Databases  →  MongoDB, SQLite
-ML/AI      →  PyTorch, YOLOv8, XGBoost, scikit-learn, SHAP
-```
-
----
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=omni-ar&custom_title=Contribution+Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&title_color=FFFFFF"/>
-
-</div>
-
----
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=flat-square\&logoColor=black)](https://arjittripathi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/arjit-tripathi-213b4a292/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:arjittripathi3103@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/omni-ar)
-
-<br/>
-
-> <i>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन</i>
-> *You have the right to perform your duty, not to the fruits of your actions.*
-> — Bhagavad Gita 2.47
-
-</div>
-```
+AI/ML      →  PyTorch, YOLOv8, XGBoost, scikit-learn, OpenCV, SHAP
+Core CS    →  Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks
+कर्मण्येवाधिकारस्ते मा फलेषु कदाचन
+You have the right to perform your duty, not to the fruits of your actions.
+— Bhagavad Gita 2.47
