@@ -9,7 +9,7 @@
 <br/>
 
 ```text
-CSE @ VIT Vellore (2023–2027)  ·  CGPA 9.27  ·  Merit Scholar
+CSE @ VIT Vellore (2023–2027)  ·  CGPA 9.21  ·  Merit Scholar
 Co-Inventor — Indian Patent Application 202641025497
 ````
 
