@@ -4,13 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=99999&color=8A8A8A&center=true&vCenter=true&repeat=false&width=500&height=30&lines=Backend+%26+Systems+Engineer" alt="Backend & Systems Engineer"/>
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=flat-square&logoColor=black)](https://arjittripathi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjit-tripathi-213b4a292/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arjittripathi3103@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/omni-ar)
-
 </div>
 
 ---
@@ -20,15 +13,13 @@ CSE @ VIT Vellore (2023–2027)  ·  CGPA 9.21  ·  Merit Scholar
 Co-Inventor — Indian Patent Application 202641025497
 ```
 
-The Greeks once asked a question about a ship repaired so many times that none of its original timber remained: Was it still the same ship?
+The Greeks once asked a question about a ship repaired so many times that none of its original timber remained:
 
-It is the exact same problem we face in system design.
+Was it still the same ship?
 
-A monolithic architecture starts simple. Then come the bottleneck failures, the race conditions, the async queues, and the silent rewrites of core logic to keep the system alive under load.
+Production systems ask the same question differently — through race conditions, silent rewrites, and the slow replacement of everything that once made them work.
 
-Somewhere in that continuous cycle of tearing down and rebuilding, engineering stops being about syntax and starts being about state and survival.
-
-I'm Arjit. Still replacing parts. Still building what survives.
+I'm Arjit. Still replacing parts. Still learning what survives.
 
 ---
 
@@ -46,23 +37,27 @@ Engineered automated telemetry ingestion ETL pipelines for 15+ flight stability 
 
 ## Projects
 
-**ADIOS — Autonomous Dump Orchestration System** &nbsp; ![Top 10 / 1500+ Teams](https://img.shields.io/badge/Top_10_%2F_1500%2B_teams-00D9FF?style=flat-square) ![Caterpillar Tech Challenge 2026](https://img.shields.io/badge/Caterpillar_Tech_Challenge_2026-333333?style=flat-square)
+**ADIOS — Autonomous Dump Orchestration System**
 
 `Python · FastAPI · BFS/DFS · Next.js`
+
+![Top 10 / 1500+ Teams](https://img.shields.io/badge/Top_10_%2F_1500%2B_teams-00D9FF?style=flat-square) ![Caterpillar Tech Challenge 2026](https://img.shields.io/badge/Caterpillar_Tech_Challenge_2026-333333?style=flat-square)
 
 Engineered a deadlock-free multi-agent orchestration pipeline by integrating a 3D reservation grid, 25-tick DFS wait-for graph lookahead, and BFS flood-fill terrain validation to secure concurrent dispatching for 4 trucks without polygon entrapment.
 
 ---
 
-**Predictive Maintenance — Aircraft Engine RUL** &nbsp; ![Applied ML](https://img.shields.io/badge/Applied_ML-00D9FF?style=flat-square)
+**Predictive Maintenance — Aircraft Engine RUL**
 
-`Python · XGBoost · scikit-learn · SHAP · NASA C-MAPSS`
+`Python · XGBoost · scikit-learn · SHAP`
+
+<img src="https://img.shields.io/badge/NASA_C--MAPSS-00D9FF?style=flat-square"/>
 
 Engineered a degradation-aware RUL prediction pipeline on 21-channel NASA C-MAPSS telemetry using XGBoost with 44 handcrafted features and GroupKFold validation, optimizing around asymmetric failure-cost penalties to achieve RMSE 15.18 ± 1.25 and near-failure MAE of 4.57.
 
 ---
 
-**MediTrace — Pharmaceutical Anti-Counterfeiting** &nbsp; ![Active Development](https://img.shields.io/badge/Active_Development-FFA500?style=flat-square)
+**MediTrace — Pharmaceutical Anti-Counterfeiting**
 
 `FastAPI · React · PyTorch · Celery · Redis`
 
@@ -70,9 +65,11 @@ Built a distributed pharmaceutical verification system combining a dual-model ML
 
 ---
 
-**Industrial Hydraulic Fault Diagnosis** &nbsp; ![Patent Filed](https://img.shields.io/badge/Patent_Filed-00D9FF?style=flat-square)
+**Industrial Hydraulic Fault Diagnosis**
 
 `FastAPI · PyTorch · 17-Channel Sensor Data`
+
+![Patent Filed](https://img.shields.io/badge/Patent_Filed-00D9FF?style=flat-square)
 
 Designed FastAPI-served PyTorch inference pipelines over 17-channel hydraulic sensor data with hardened signal preprocessing and integrity validation, achieving 0.994 macro-F1 across fault classes.
 
@@ -96,9 +93,17 @@ Core CS    →  Data Structures & Algorithms, Operating Systems, DBMS, Computer 
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=flat-square&logoColor=black)](https://arjittripathi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjit-tripathi-213b4a292/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arjittripathi3103@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/omni-ar)
+
+<br/>
+
 <sub><i>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन — Gita 2.47</i></sub>
 
 <br/>
+
 <sub>You have the right to perform your duty, not to the fruits of your actions.</sub>
 
 </div>
