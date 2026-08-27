@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "repo": "AACBridge",
+      "description": "On-device LLM inference for AAC, predictive KV-cache priming",
+      "result": "4.24x latency reduction (19.4s to 4.6s), p<0.05",
+      "stack": ["C++", "llama.cpp", "JNI", "ONNX"]
+    },
+    {
+      "repo": "adaptive-dump-intelligence",
+      "description": "Deadlock-free multi-agent mining dispatch, BFS/DFS/A* safety layer",
+      "result": "Top 5/1500+ teams, Caterpillar Tech Challenge 2026",
+      "stack": ["Python", "FastAPI", "NumPy"]
+    },
+    {
+      "repo": "predictive-aircraft-maintenance",
+      "description": "RUL estimation on NASA C-MAPSS, GroupKFold to prevent leakage",
+      "result": "RMSE 15.18 +/- 1.25 cycles, near-failure MAE 4.57",
+      "stack": ["Python", "XGBoost", "SHAP"]
+    },
+    {
+      "repo": "tpo-ops",
+      "description": "Placement operations platform, state machine + audit trail",
+      "result": "16 REST endpoints, 6-stage pipeline, Docker + CI",
+      "stack": ["TypeScript", "Express.js", "PostgreSQL"]
+    }
+  ]
+}
