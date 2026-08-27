@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/portrait.svg" width="220" alt="Arjit Tripathi"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=99999&color=00D9FF&center=true&vCenter=true&repeat=false&width=500&height=60&lines=Arjit+Tripathi" alt="Arjit Tripathi"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=99999&color=8A8A8A&center=true&vCenter=true&repeat=false&width=500&height=30&lines=Backend+%26+Systems+Engineer" alt="Backend & Systems Engineer"/>
@@ -25,6 +27,10 @@ I'm Arjit. Still replacing parts. Still learning what survives.
 
 ## Work
 
+**Software Engineering Intern — GatiSoftTech** *(May 2026 – Jul 2026)*
+
+Built EcoAgent, an R&D proof-of-concept for LLM-assisted HVAC energy optimization, with deterministic safety checks between model decisions and EnergyPlus actuators. Profiled a 59s simulation/control cycle, traced the bottleneck to verbose local-LLM generation, and tightened it to ~12s — enabling four reasoning cycles within the 62s simulation window.
+
 **Software Development Intern — Aspire For Her Foundation** *(Dec 2025 – Feb 2026)*
 
 Built an RBAC-enforced multi-tenant dashboard and integrated Cashfree HMAC webhook verification for 300+ users, while establishing GitHub Actions CI/CD peer-review gates after executing a live git-based production rollback.
@@ -35,13 +41,86 @@ Engineered automated telemetry ingestion ETL pipelines for 15+ flight stability 
 
 ---
 
+## Recognition
+
+![Amazon ML Summer School 2026](https://img.shields.io/badge/Amazon_ML_Summer_School_2026-Selected_(~2.2%25_of_134K%2B)-FF9900?style=flat-square) ![LeetCode](https://img.shields.io/badge/LeetCode-507_solved_%C2%B7_87_Advanced_DP-FFA116?style=flat-square)
+
+---
+
+## Capability Benchmark
+
+<table><tr>
+<td width="50%" align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+  <img src="assets/radar-dark.svg" width="380" alt="self-rated skill radar">
+</picture>
+</td>
+<td width="50%" align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+  <img src="assets/radar-langs-dark.svg" width="380" alt="language radar, verified from commits">
+</picture>
+</td>
+</tr></table>
+
+<sub>Left: self-rated. Right: pulled live from repo language bytes — refreshed daily.</sub>
+
+---
+
+## Verified Results
+
+<table><tr>
+<td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-aacbridge-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-aacbridge-light.svg">
+  <img src="assets/card-aacbridge-dark.svg" width="420" alt="AACBridge results">
+</picture>
+</td>
+<td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-adaptive-dump-intelligence-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-adaptive-dump-intelligence-light.svg">
+  <img src="assets/card-adaptive-dump-intelligence-dark.svg" width="420" alt="ADIOS results">
+</picture>
+</td>
+</tr><tr>
+<td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-predictive-aircraft-maintenance-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-predictive-aircraft-maintenance-light.svg">
+  <img src="assets/card-predictive-aircraft-maintenance-dark.svg" width="420" alt="Predictive Maintenance results">
+</picture>
+</td>
+<td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-tpo-ops-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-tpo-ops-light.svg">
+  <img src="assets/card-tpo-ops-dark.svg" width="420" alt="TPO-Ops results">
+</picture>
+</td>
+</tr></table>
+
+---
+
 ## Projects
+
+**AAC Bridge — On-Device LLM Inference**
+
+`C++ · llama.cpp · ONNX · JNI`
+
+Engineered an on-device inference pipeline (llama.cpp, MiniLM/ONNX) with JNI synchronization and KV-cache serialization, cutting 500-token response latency from 19.4s to 4.6s (4.24×, Welch t-test p<0.05) — submitted to IEEE Access.
+
+---
 
 **ADIOS — Autonomous Dump Orchestration System**
 
 `Python · FastAPI · BFS/DFS · Next.js`
 
-![Top 10 / 1500+ Teams](https://img.shields.io/badge/Top_10_%2F_1500%2B_teams-00D9FF?style=flat-square) ![Caterpillar Tech Challenge 2026](https://img.shields.io/badge/Caterpillar_Tech_Challenge_2026-333333?style=flat-square)
+![Top 5 / 1500+ Teams](https://img.shields.io/badge/Top_5_%2F_1500%2B_teams-00D9FF?style=flat-square) ![Caterpillar Tech Challenge 2026](https://img.shields.io/badge/Caterpillar_Tech_Challenge_2026-333333?style=flat-square)
 
 Engineered a deadlock-free multi-agent orchestration pipeline by integrating a 3D reservation grid, 25-tick DFS wait-for graph lookahead, and BFS flood-fill terrain validation to secure concurrent dispatching for 4 trucks without polygon entrapment.
 
@@ -54,14 +133,6 @@ Engineered a deadlock-free multi-agent orchestration pipeline by integrating a 3
 <img src="https://img.shields.io/badge/NASA_C--MAPSS-00D9FF?style=flat-square"/>
 
 Engineered a degradation-aware RUL prediction pipeline on 21-channel NASA C-MAPSS telemetry using XGBoost with 44 handcrafted features and GroupKFold validation, optimizing around asymmetric failure-cost penalties to achieve RMSE 15.18 ± 1.25 and near-failure MAE of 4.57.
-
----
-
-**MediTrace — Pharmaceutical Anti-Counterfeiting**
-
-`FastAPI · React · PyTorch · Celery · Redis`
-
-Built a distributed pharmaceutical verification system combining a dual-model ML pipeline (YOLOv8 + Random Forest) with Celery/Redis async worker queues and RBAC-enforced FastAPI endpoints using SHA-256 hash chains to enable O(K) per-unit verification and eliminate global DB lock contention.
 
 ---
 
