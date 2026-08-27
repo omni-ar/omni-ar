@@ -91,7 +91,7 @@ def build_svg(img, cols, rows, cell=10, mode="color", accent="00D9FF",
             else:
                 fill = f"#{accent}"
             parts.append(
-                f'<circle cx="{ccx:.1f}" cy="{ccy:.1f}" r="{radius:.2f}" fill="{fill}"/>'
+                f'<circle cx="{ccx:.0f}" cy="{ccy:.0f}" r="{radius:.1f}" fill="{fill}"/>'
             )
 
     parts.append("</svg>")
