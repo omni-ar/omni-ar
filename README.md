@@ -2,9 +2,13 @@
 
 <img src="assets/portrait.svg" width="220" alt="Arjit Tripathi"/>
 
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=99999&color=00D9FF&center=true&vCenter=true&repeat=false&width=500&height=60&lines=Arjit+Tripathi" alt="Arjit Tripathi"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=99999&color=8A8A8A&center=true&vCenter=true&repeat=false&width=500&height=30&lines=Backend+%26+Systems+Engineer" alt="Backend & Systems Engineer"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2600&pause=1000&color=8A8A8A&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Backend+%26+Systems+Engineer;Full-Stack+Developer;ML+%26+AI+Systems" alt="Backend & Systems Engineer, Full-Stack Developer, ML and AI Systems"/>
 
 </div>
 
