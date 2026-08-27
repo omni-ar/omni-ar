@@ -2,10 +2,10 @@
   "title": "Self-Rated",
   "axes": [
     { "label": "Backend/APIs", "value": 82 },
+    { "label": "Frontend", "value": 72 },
     { "label": "ML/AI Systems", "value": 78 },
     { "label": "DSA", "value": 80 },
     { "label": "Systems Design", "value": 68 },
-    { "label": "Databases", "value": 70 },
-    { "label": "C++/Native", "value": 65 }
+    { "label": "Databases", "value": 70 }
   ]
 }
