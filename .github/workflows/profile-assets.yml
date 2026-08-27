@@ -1,0 +1,44 @@
+name: Refresh profile assets
+
+on:
+  schedule:
+    - cron: "30 3 * * *"   # daily at 03:30 UTC
+  workflow_dispatch: {}      # lets you trigger it manually from the Actions tab
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Regenerate self-rated radar
+        run: python scripts/radar.py --data assets/skills.json -o assets/radar
+
+      - name: Regenerate language radar (live from GitHub)
+        run: |
+          python scripts/radar.py --github omni-ar -o assets/radar-langs \
+            --limit 6 --curve 0.4 --exclude "html,css,shell,dockerfile"
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Regenerate project cards (live stars/language)
+        run: python scripts/cards.py --user omni-ar --projects assets/projects.json --out assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git diff --cached --quiet || git commit -m "chore: refresh profile assets"
+          git push
